@@ -1,0 +1,18 @@
+Requirements
+
+User Interface (UI): A web interface where users can post and view available quarters.
+
+Authentication: Strong authentication method, specifically OTP-based login.
+
+Database: To store user information, quarter listings, and other relevant data.
+
+Backend: To handle user requests, authentication, and business logic.
+
+Communication: Initially, contact via phone number, with the possibility of adding chat functionality later using Socket Programming
+
+
+Plan of Action:
+
+1) Setup Database and Login Webpage
+2) API to connect to register and login via otp method
+
